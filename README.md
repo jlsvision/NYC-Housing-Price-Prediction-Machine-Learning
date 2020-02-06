@@ -56,4 +56,10 @@ After cleaning the dataset and identifying points of interest, we used a correla
 
 With this process we identified the training data (a representation of the data) to be fed into the Keras and Scikit Learn Regression Model. As we can see above, we ran the model at 150 epoch for best accuracy to train the model. 
 
+<img src="images/Screen%20Shot%202020-01-22%20at%209.25.01%20AM.png" width="600">  
+
+The model was able to create a dataset of predicted data. We visualized the data using Matplotlib and alligned it with the real data used to train the model. The results of the prediciton were actually looking positive and correlated to the data at certian points.
+
+
+
 
