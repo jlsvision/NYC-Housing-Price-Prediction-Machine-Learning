@@ -13,3 +13,11 @@ New York is a center in the world's economy, people constantly moving in and out
 The dataset was acquired from the New York State Department of Finance for free, this comprehensive dataset includes 22 columns(headers) and 84,549 rows
 
 
+
+
+<img src="images/Screen%20Shot%202020-01-22%20at%202.50.18%20PM.png" width="600">  
+
+
+
+Data Cleaning: The process of data cleaning required the identification of the data we were working with. Was it categorical? Is it essential data to keep in our machine learning model?
+
