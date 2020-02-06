@@ -21,3 +21,9 @@ The dataset was acquired from the New York State Department of Finance for free,
 
 Data Cleaning: The process of data cleaning required the identification of the data we were working with. Was it categorical? Is it essential data to keep in our machine learning model?
 
+
+<img src="images/Screen%20Shot%202020-01-21%20at%2011.19.59%20PM.png" width="600">  
+
+
+After cleaning the dataset and identifying points of interest, we used a correlation matrix to identify the relationships each coefficient had with each other. This way we were able to explore certian properties and coefficients further.
+
