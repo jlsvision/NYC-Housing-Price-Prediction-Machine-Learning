@@ -60,6 +60,10 @@ With this process we identified the training data (a representation of the data)
 
 The model was able to create a dataset of predicted data. We visualized the data using Matplotlib and alligned it with the real data used to train the model. The results of the prediciton were actually looking positive and correlated to the data at certian points.
 
+<img src="/images/Screen%20Shot%202020-01-22%20at%208.52.09%20AM.png" width="600">  
+
+As we looked at the predicted data and actual data more closely we can see that the predicted price data was able to follow the same trend over time at certian points of the year. This could mean that there are price increase or decrease at specific times of the year.
+
 
 
 
