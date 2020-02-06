@@ -48,3 +48,12 @@ Data Cleaning: The process of data cleaning required the identification of the d
 
 After cleaning the dataset and identifying points of interest, we used a correlation matrix to identify the relationships each coefficient had with each other. This way we were able to explore certian properties and coefficients further.
 
+
+<img src="images/Screen%20Shot%202020-01-22%20at%205.56.44%20PM.png" width="600">  
+
+
+
+
+With this process we identified the training data (a representation of the data) to be fed into the Keras and Scikit Learn Regression Model. As we can see above, we ran the model at 150 epoch for best accuracy to train the model. 
+
+
